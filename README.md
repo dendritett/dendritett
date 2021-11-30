@@ -66,4 +66,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=axfig3eomnhwsp052k6jt5kw2&cover_image=true&theme=natemoo-re&bar_color=5e4eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+![](https://komarev.com/ghpvc/?username=dendritett&color=557bd9)
 [![Github](https://img.shields.io/github/followers/dendritett?label=Follow&style=social)](https://github.com/dendritett)
