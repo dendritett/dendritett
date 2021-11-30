@@ -4,11 +4,11 @@
 
 </br>
 
-- :japan: I'm a developer from Japan.
+- I'm a developer from Japan.
 
-- :computer: [Java](https://dev.java) & [Golang](https://golang.org) user.
+- [Java](https://dev.java) & [Golang](https://golang.org) user.
 
-- :hatching_chick: I've only just begun contribute.
+- I've only just begun contribute.
 
 </br>
 
