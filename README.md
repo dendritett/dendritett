@@ -1,10 +1,10 @@
 ## 👋 Ħ𝕀, 𝒾'Μ 𝐓т :blue_heart:
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/dendritett/dendritett/blob/main/gif/ai1.gif">
+<img hight="400" width="500" alt="GIF" align="right" style="margin:100px 100px 100px 100px;" src="https://github.com/dendritett/dendritett/blob/main/gif/ai1.gif">
 
-- :japan: I'm a developer from Japan.
+- :japan: 𝐈'𝐦 𝐚 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐉𝐚𝐩𝐚𝐧.
 
-- :computer: [Java](https://dev.java) & [Golang](https://golang.org) user
+- :computer: [𝐉𝐚𝐯𝐚](https://dev.java) & [𝐆𝐨𝐥𝐚𝐧𝐠](https://golang.org) 𝐮𝐬𝐞𝐫
 
 <br clear="right">
 
