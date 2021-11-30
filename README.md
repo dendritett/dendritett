@@ -1,10 +1,22 @@
-## 👋 Hi, I’m TT :blue_heart:
+## 👋 Ħ𝕀, 𝒾'Μ 𝐓т :blue_heart:
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/dendritett/dendritett/blob/main/gif/ai1.gif">
 
 - :japan: I'm a developer from Japan.
 
 - :computer: [Java](https://dev.java) & [Golang](https://golang.org) user
 
-![ai](https://github.com/dendritett/dendritett/blob/main/gif/ai1.gif)
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## GitHub Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendritett&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
