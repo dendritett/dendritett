@@ -2,6 +2,8 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/dendritett/dendritett/blob/main/gif/ai1.gif">
 
+</br>
+
 - :japan: I'm a developer from Japan.
 
 - :computer: [Java](https://dev.java) & [Golang](https://golang.org) user
