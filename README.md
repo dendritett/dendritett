@@ -1,8 +1,8 @@
-### 👋 Hi, I’m TT :blue_heart:
+## 👋 Hi, I’m TT :blue_heart:
 
 - :japan: I'm a developer from Japan.
 
-- [Java](https://dev.java) & [Golang](https://golang.org) user
+- :computer: [Java](https://dev.java) & [Golang](https://golang.org) user
 
 ## GitHub Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendritett&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
