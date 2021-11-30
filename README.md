@@ -10,7 +10,7 @@
 
 - :hatching_chick: 𝐈'𝐯𝐞 𝐨𝐧𝐥𝐲 𝐣𝐮𝐬𝐭 𝐛𝐞𝐠𝐮𝐧 𝐭𝐨 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞.
 
-<h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
+<h3 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
