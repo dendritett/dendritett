@@ -1,4 +1,4 @@
-## 👋 Ħ𝕀, 𝒾'Μ 𝐓т :blue_heart:
+## :blue_heart: Ħ𝕀, 𝒾'Μ 𝐓т :blue_heart:
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/dendritett/dendritett/blob/main/gif/ai1.gif">
 
@@ -60,6 +60,8 @@
 <a href="https://www.credly.com/badges/b1d767bc-e010-49de-a89b-2edc6fd81ff5/public_url"><img src="https://github.com/dendritett/dendritett/blob/main/badges/oracle-certified-java-programmer-silver-se-8-oracle-certified-associate-java-se-8-programmer-jpn.png" width="140" height="140"></a>
 
 ##
+𝐌𝐮𝐬𝐢𝐜 𝐞𝐧𝐫𝐢𝐜𝐡𝐞𝐬 𝐨𝐮𝐫 𝐥𝐢𝐯𝐞𝐬.
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=axfig3eomnhwsp052k6jt5kw2&cover_image=true&theme=natemoo-re&bar_color=5e4eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Github](https://img.shields.io/github/followers/dendritett?label=Follow&style=social)](https://github.com/dendritett)
