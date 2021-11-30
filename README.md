@@ -1,6 +1,6 @@
 ## 👋 Ħ𝕀, 𝒾'Μ 𝐓т :blue_heart:
 
-<img hight="400" width="500" alt="GIF" align="right" style="margin:100px 100px 100px 100px;" src="https://github.com/dendritett/dendritett/blob/main/gif/ai1.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/dendritett/dendritett/blob/main/gif/ai1.gif">
 
 - :japan: 𝐈'𝐦 𝐚 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐉𝐚𝐩𝐚𝐧.
 
